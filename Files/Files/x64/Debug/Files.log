@@ -1,0 +1,5 @@
+﻿  Files.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Files\Files\Files.cpp(16,49): warning C4305: аргумент: усечение из "double" в "float"
+  Source.cpp
+  Создание кода...
+  Files.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Files\x64\Debug\Files.exe
