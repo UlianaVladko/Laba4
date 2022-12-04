@@ -1,0 +1,3 @@
+﻿  Destructor.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Destructor\Destructor\Destructor.cpp(40,49): warning C4305: аргумент: усечение из "double" в "float"
+  Destructor.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Destructor\x64\Debug\Destructor.exe
