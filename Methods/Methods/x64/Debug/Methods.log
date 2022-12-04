@@ -1,0 +1,6 @@
+﻿  Methods.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Methods\Methods\Methods.cpp(22,67): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Methods\Methods\Methods.cpp(23,59): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Methods\Methods\Methods.cpp(24,59): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Methods\Methods\Methods.cpp(25,63): warning C4305: аргумент: усечение из "double" в "float"
+  Methods.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба4\Methods\x64\Debug\Methods.exe
